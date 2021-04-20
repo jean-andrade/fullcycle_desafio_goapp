@@ -1,20 +1,22 @@
-# Descrição
+# Curso FullCycle 2.0
 
-Desefio Docker
+## Desafio 1 - App Go
 
-## Template Nginx
+Este desafio consiste em
 
-Atualizado repositório no github
-
-[https://github.com/jean-andrade/fullcycle-laravel](https://github.com/jean-andrade/fullcycle-laravel)
+- publicar uma imagem no Docker Hub
+- a imagem deve possui menos de 2MB
+- ao executarmos a imagem, deve ser impresso no terminal: `Code.education Rocks!`
 
 ## App Go
+
+Execute a imagem com o comando abaixo.
 
 ```
 docker run jeanandrade/codeeducation
 ```
 
-#### Docker HUB
+## Docker Hub
 
 A imagem disponível em:
 
